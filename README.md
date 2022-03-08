@@ -7,6 +7,5 @@
 - interfaces, inheritance, polymorphism
 
 ### Still to do:
--GUI using Swing library
-
--generics and colections
+- GUI using Swing library
+- generics and colections
