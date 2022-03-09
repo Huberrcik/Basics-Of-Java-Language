@@ -61,11 +61,11 @@ public class Game {
                 while(s != 1) {
 
                     try {
-                        pick= Integer.parseInt(pick1);
+                        pick= Integer.parseInt(pick2);
                         s = 1;
                     } catch (Exception e) {
                         System.out.println("Bad number, try again: ");
-                        pick1 = sc.next();
+                        pick2 = sc.next();
                     }
                 }
             }
